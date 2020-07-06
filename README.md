@@ -1,9 +1,5 @@
 ## Open-in Native Client
 
-### Note 1:
-This new Github repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client  
-All the new updates about native client patches are pushed here.
-
 ### Important Note:
 ----------------------------------------------------
 Native client patches provided here work ONLY with the addons listed in https://mybrowseraddon.com/ website. If you are directed to this repo from any other sources (website, add-on, plug-in, app, etc.) please proceed with caution when using those products, as, they will NOT work with patches provided in this repo.
@@ -35,4 +31,6 @@ In order to uninstall "native-client" from your system, please follow the below 
 1. Open the downloaded folder and then click on "uninstall.bat".
 2. Wait for the script to display the successful message.
 
-Note: the native-client in this repository is forked from: https://github.com/openstyles/native-client
+### Note:
+This Github repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client  
+All the new updates about native client patches are pushed here.
