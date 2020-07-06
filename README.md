@@ -1,7 +1,7 @@
 ## Open-in Native Client
 
 ### Note 1:
-This new Github repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client
+This new Github repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client  
 All the new updates about native client patches are pushed here.
 
 ### Important Note:
