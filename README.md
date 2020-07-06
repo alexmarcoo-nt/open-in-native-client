@@ -1,12 +1,12 @@
 ## Open-in Native Client
 
-### Note:
+### Note 1:
 This new Github repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client
 All the new updates about native client patches are pushed here.
 
 ### Important Note:
 ----------------------------------------------------
-Native client patches provided in this GitHub repo work ONLY with the addons listed in https://mybrowseraddon.com/ website. If you are directed to this repo from any other sources (website, add-on, plug-in, app, etc.) please proceed with caution when using those products, as, they will NOT work with patches provided in this repo.
+Native client patches provided here work ONLY with the addons listed in https://mybrowseraddon.com/ website. If you are directed to this repo from any other sources (website, add-on, plug-in, app, etc.) please proceed with caution when using those products, as, they will NOT work with patches provided in this repo.
 
 Currently, ONLY the following open-in products work with the native client patches in this repo:
 
