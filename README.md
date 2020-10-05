@@ -6,14 +6,14 @@ Native client patches provided here work ONLY with the addons listed in https://
 
 Currently, ONLY the following open-in products work with the native client patches in this repo:
 
-1. PDF Tools: http://mybrowseraddon.com/pdf-tools.html
-2. Media Tools: http://mybrowseraddon.com/media-tools.html
-3. Open in IE™: http://mybrowseraddon.com/open-in-ie.html  
-4. Open in VLC™: http://mybrowseraddon.com/open-in-vlc.html  
-5. Open in PDF Viewer: http://mybrowseraddon.com/open-in-pdf.html  
-6. Open in Chrome™: http://mybrowseraddon.com/open-in-chrome.html  
-7. Open with Internet Download Manager: http://mybrowseraddon.com/open-with-idm.html
-8. Multi-threaded Download Manager: http://mybrowseraddon.com/multithreaded-download-manager.html
+1. PDF Tools: https://mybrowseraddon.com/pdf-tools.html
+2. Media Tools: https://mybrowseraddon.com/media-tools.html
+3. Open in IE™: https://mybrowseraddon.com/open-in-ie.html  
+4. Open in VLC™: https://mybrowseraddon.com/open-in-vlc.html  
+5. Open in PDF Viewer: https://mybrowseraddon.com/open-in-pdf.html  
+6. Open in Chrome™: https://mybrowseraddon.com/open-in-chrome.html  
+7. Download Tools: https://mybrowseraddon.com/multithreaded-download-manager.html  
+8. Open with Internet Download Manager: https://mybrowseraddon.com/open-with-idm.html
 
 ### How to work with native-client:
 
@@ -32,5 +32,5 @@ In order to uninstall "native-client" from your system, please follow the below 
 2. Wait for the script to display the successful message.
 
 ### Note:
-This Github repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client  
+This GitHub repo is forked from my old repo: https://github.com/alexmarcoo/open-in-native-client  
 All the new updates about native client patches are pushed here.
